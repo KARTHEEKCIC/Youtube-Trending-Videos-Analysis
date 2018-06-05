@@ -1,6 +1,6 @@
-DATA ANALYSIS AND VISUALIZATION
+# Youtube-Trending-Videos-Analysis
 
-DATASET - TRENDING YOUTUBE VIDEO STATISTICS
+Dataset - Trending youtube video statistics
 
 Folder/Files - 
  Observation - contains all the result and graph visualization
@@ -9,4 +9,4 @@ Folder/Files -
  analysis.R - analysis of data of Canada
  all_countries_comp.R - comparison between different countries of the dataset
  text_analysis.R - sentiment analysis and visualization of the text (like video description)
-# Youtube-Trending-Videos-Analysis
+
